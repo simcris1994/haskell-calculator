@@ -16,3 +16,7 @@ The program will go through several intermediate stages, evaluating the given ex
   (5 * (x + 1)) =
   ((5 * x) + (5 * 1)) =
   (5 * x + 5)
+  
+  
+![haskell1](https://user-images.githubusercontent.com/7521620/139597449-e761529c-6cd7-4bad-a334-e7eef203db94.PNG)
+![haskell2](https://user-images.githubusercontent.com/7521620/139597451-cde9725b-dcf2-4fc7-aff8-0a710fee1030.PNG)
